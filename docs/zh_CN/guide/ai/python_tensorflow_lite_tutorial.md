@@ -205,7 +205,7 @@ Content-Type: application/json
   "actions": [
    {
       "mqtt":{
-        "server": "tcp://emqx.io:1883",
+        "server": "tcp://broker-cn.emqx.io:1883",
         "sendSingle": true,
         "topic": "ekuiper/labels"
       }
